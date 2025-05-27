@@ -1,4 +1,4 @@
-package second;
+
 
 class BankCustomer {
     String cust_name, cust_adress;
